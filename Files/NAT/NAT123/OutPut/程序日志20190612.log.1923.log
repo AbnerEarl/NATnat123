@@ -1,0 +1,5 @@
+
+***队列日志1***
+2019/6/12 19:23:38：error-添加信任站点出错错误消息未将对象引用设置到对象的实例。堆椎信息   在 Jia.UitilityFrame.Tools.IeSettingHelper.I1soNdwHQYad4i9RWZM(Object , Object )
+   在 Jia.UitilityFrame.Tools.IeSettingHelper.RegDomainsEsc(String webSite, String proto)
+   在 Jia.UitilityFrame.Tools.IeSettingHelper.SetIeForWebsite(String webSite, String exe)

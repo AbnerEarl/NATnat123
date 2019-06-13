@@ -1,0 +1,11 @@
+E:\VisualStudioProjects\NATnat123\NATnat123\NATnat123\bin\Debug\NATnat123.exe.config
+E:\VisualStudioProjects\NATnat123\NATnat123\NATnat123\bin\Debug\NATnat123.exe
+E:\VisualStudioProjects\NATnat123\NATnat123\NATnat123\bin\Debug\NATnat123.pdb
+E:\VisualStudioProjects\NATnat123\NATnat123\NATnat123\obj\Debug\NATnat123.csprojAssemblyReference.cache
+E:\VisualStudioProjects\NATnat123\NATnat123\NATnat123\obj\Debug\NATnat123.Form1.resources
+E:\VisualStudioProjects\NATnat123\NATnat123\NATnat123\obj\Debug\NATnat123.Form2.resources
+E:\VisualStudioProjects\NATnat123\NATnat123\NATnat123\obj\Debug\NATnat123.Properties.Resources.resources
+E:\VisualStudioProjects\NATnat123\NATnat123\NATnat123\obj\Debug\NATnat123.csproj.GenerateResource.cache
+E:\VisualStudioProjects\NATnat123\NATnat123\NATnat123\obj\Debug\NATnat123.csproj.CoreCompileInputs.cache
+E:\VisualStudioProjects\NATnat123\NATnat123\NATnat123\obj\Debug\NATnat123.exe
+E:\VisualStudioProjects\NATnat123\NATnat123\NATnat123\obj\Debug\NATnat123.pdb

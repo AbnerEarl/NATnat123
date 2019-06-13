@@ -1,0 +1,8 @@
+
+***队列日志1***
+2019/6/13 11:02:33：error-GetIPByHostName出错ipmode.nat123.com错误消息请求的名称有效，但是找不到请求的类型的数据。堆椎信息   在 System.Net.Dns.InternalGetHostByName(String hostName, Boolean includeIPv6)
+   在 System.Net.Dns.GetHostByName(String hostName)
+   在 i8NIfhN9jWoqsKt6Zv.RQ6Vc746w6Vjo3F9wf.4gUUx6MGvedvm5PInNw(Object )
+   在 i8NIfhN9jWoqsKt6Zv.RQ6Vc746w6Vjo3F9wf.nNvDJNW2L(String )
+   在 NetComm.Biz.TcpFunctionHelper.bgUloT4LXwYr6ZgFpHf(Object , Object )
+   在 NetComm.Biz.TcpFunctionHelper.GetIPByHostName(String hostName, Boolean isTest)
